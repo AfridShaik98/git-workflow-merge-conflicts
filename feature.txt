@@ -1,2 +1,6 @@
 this fearture file to do work
+<<<<<<< HEAD
 in fix branch
+=======
+some modifications
+>>>>>>> main
